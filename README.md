@@ -5,7 +5,7 @@
 📅 Наш проект: СБЕР-Календарь!
 - [СБЕР-Календарь](https://temablag.github.io/SBER_Generation/sber-calendar.pdf)
 
-📚 Содержание
+📚 Лекции
 - [Вводная встреча](https://temablag.github.io/SBER_Generation/%D0%92%D0%B2%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%B2%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0.pdf)
 - [Про Agile, Scrum и командную работу](https://temablag.github.io/SBER_Generation/Agile_Scrum_%D0%B8_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D1%83%D1%8E_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%83.pdf)
 - [Product_Owner_между_разработкой_и_бизнесом](https://temablag.github.io/SBER_Generation/Product_Owner_%D0%BC%D0%B5%D0%B6%D0%B4%D1%83_%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%BE%D0%B8%CC%86_%D0%B8_%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%D0%BE%D0%BC.pdf)
@@ -21,6 +21,10 @@
 - [Стратегия_вывода_продукта_на_рынок](https://temablag.github.io/SBER_Generation/%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D0%B8%D1%8F_%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D0%B0_%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B0_%D0%BD%D0%B0_%D1%80%D1%8B%D0%BD%D0%BE%D0%BA.pdf)
 - [25+ нейросетевых инструментов](https://temablag.github.io/SBER_Generation/25_%D0%BD%D0%B5%D0%B8%CC%86%D1%80%D0%BE%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D1%85_%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2.pdf)
 - [Практические_рекомендации_по_использованию_нейросетей](https://temablag.github.io/SBER_Generation/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%80%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%86%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E_%D0%BD%D0%B5%D0%B8%CC%86%D1%80%D0%BE%D1%81%D0%B5%D1%82%D0%B5%D0%B8%CC%86.pdf)
+
+✅ Полезные материалы
+- [Игра испорченный телефон](https://garticphone.com/ru)
+- [Книги](https://drive.google.com/drive/folders/1OEyFSuQA6DxUX-JFB0hRvlQT9ryV30zd)
 
 📝 Структура презентации 
 - [pres_struct](https://temablag.github.io/SBER_Generation/pres_struct.jpg)
